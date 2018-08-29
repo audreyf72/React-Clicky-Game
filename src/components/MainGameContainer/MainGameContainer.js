@@ -6,7 +6,7 @@ import "./MainGameContainer.css";
 class MainGameContainer extends Component {
 	state = {
 		images,
-		message: "Click one of the logos to begin!",
+		message: "Click one of the cards to begin!",
 		score: 0,
 		topScore: 0
 	};
@@ -21,7 +21,7 @@ class MainGameContainer extends Component {
 			});
 			return this.setState({
 				image: imageOrder.sort(() => Math.random() - 0.5),
-				message: "You Guessed Incorrectly!",
+				message: "That one got away!",
 				score: 0
 			})
 		}
@@ -38,7 +38,7 @@ class MainGameContainer extends Component {
 
 			return this.setState({
 				image: imageOrder.sort(() => Math.random() - 0.5),
-				message: "You Guessed Correctly!",
+				message: "You Caught One!",
 				score: newScore,
 				topScore: newTopScore,
 			})
@@ -52,7 +52,7 @@ class MainGameContainer extends Component {
 						<p>{this.state.message}</p>
 					</div>
 					<div className="gameScores text-center">
-						<p>Score: {this.state.score} | Top Score: {this.state.topScore}</p>
+						<p>You Caught: {this.state.score} | Most Caught: {this.state.topScore}</p>
 					</div>
 				<div className="container">
 					

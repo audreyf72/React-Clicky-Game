@@ -5,8 +5,8 @@ import "./Jumbotron.css";
 const Jumbotron = () => (
 <div className="jumbotron jumbotron-fluid">
   <div className="container text-center">
-    <h1 className="display-4">React Clicky Game!</h1>
-    <p className="lead">Click on any image to earn points, but don't click on any more than once!</p>
+    <h1 className="display-4">Catcha Pokemon Game!</h1>
+    <p className="lead">Click on any card to catch a Pokemon, but don't click the same card twice or the Pokemon will get away!</p>
   </div>
 </div>
 );
