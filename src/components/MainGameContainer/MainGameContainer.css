@@ -10,9 +10,8 @@
 }
 
 .gameMessage p {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Luckiest Guy', cursive;
     text-transform: uppercase;
-    font-weight: 500;
     background-color: gray;
     color: white;
     padding: 20px 0;
@@ -26,9 +25,8 @@
     margin-bottom: 10px;
 }
 .gameScores p {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Luckiest Guy', cursive;
     text-transform: uppercase;
-    font-weight: 500;
     background-color:#3d7dca;
     color: white;
     padding: 20px 0;
