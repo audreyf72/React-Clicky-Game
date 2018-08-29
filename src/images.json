@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "name": "image1",
+    "clicked": false,
+    "image":
+      "/images/template.png"
+  },
+  {
+    "id": 2,
+    "name": "image2",
+    "clicked": false,
+    "image":
+      "/images/template.png"
+  },
+  {
+    "id": 3,
+    "name": "image3",
+    "clicked": false,
+    "image":
+      "/images/template.png"
+  },
+  {
+    "id": 4,
+    "name": "image4",
+    "clicked": false,
+    "image":
+      "/images/template.png"
+  },
+  {
+    "id": 5,
+    "name": "image5",
+    "clicked": false,
+    "image":
+      "/images/template.png"
+  },
+  {
+    "id": 6,
+    "name": "image6",
+    "clicked": false,
+    "image":
+      "/images/template.png"
+  },
+  {
+    "id": 7,
+    "name": "image7",
+    "clicked": false,
+    "image":
+      "/images/template.png"
+  },
+  {
+    "id": 8,
+    "name": "image8",
+    "clicked": false,
+    "image":
+      "/images/template.png"
+  },
+  {
+    "id": 9,
+    "name": "image9",
+    "clicked": false,
+    "image":
+      "/images/template.png"
+  },
+  {
+    "id": 10,
+    "name": "image10",
+    "clicked": false,
+    "image":
+      "/images/template.png"
+  },
+  {
+    "id": 11,
+    "name": "image11",
+    "clicked": false,
+    "image":
+      "/images/template.png"
+  },
+  {
+    "id": 12,
+    "name": "image12",
+    "clicked": false,
+    "image":
+      "/images/template.png"
+  },
+  {
+    "id": 13,
+    "name": "image13",
+    "clicked": false,
+    "image":
+      "/images/template.png"
+  },
+  {
+    "id": 14,
+    "name": "image14",
+    "clicked": false,
+    "image":
+      "/images/template.png"
+  },
+  {
+    "id": 15,
+    "name": "image15",
+    "clicked": false,
+    "image":
+      "/images/template.png"
+  },
+  {
+    "id": 16,
+    "name": "image16",
+    "clicked": false,
+    "image":
+      "/images/template.png"
+  }
+]
+
