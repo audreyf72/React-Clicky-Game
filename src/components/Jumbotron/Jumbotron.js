@@ -11,7 +11,7 @@ const Jumbotron = () => (
         </span>
          </div>
     </div>
-    <p className="subTitle">Click on a card to catch one. Don't click the same card twice or it will get away!</p>
+    <p className="subTitle">Click on a card to catch one. Don't click the same card twice or you will lose them all!</p>
 </div>
 );
 

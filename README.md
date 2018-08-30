@@ -2,11 +2,13 @@
 
 # Catcha Pokemon Game
 
-This React based click game is a simple but fun memory challenge card game. You can check out the deployed site on Heroku [here](https://fierce-fortress-10146.herokuapp.com/)!
+This React based click game is a challenging and fun memory card game. You can check out the deployed site on Heroku [here](https://fierce-fortress-10146.herokuapp.com/)!
 
 ## How To Play
 
-Click on a character card to begin. The first time you click a character, you catch it, your number of Pokemon caught will increase by one, and the characters scramble around the game board. If you click the same character twice, that character will get away, the game resets, your high score will be updated and the number of Pokemon caught will reset to zero. Try to catch all 16 characters without letting any get away!
+Click on a character card to begin. The first time you click a card, your number of Pokemon caught will increase by one, and the cards shuffle around the game board. If you click the same character twice, all the characters you've caught will get away, the game resets, your high score will be updated, and the number of Pokemon caught will reset to zero.
+
+Try to catch all 16 characters before they all get away!
 
 ## Technologies Used
 
