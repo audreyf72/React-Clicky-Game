@@ -6,7 +6,7 @@ import "./MainGameContainer.css";
 class MainGameContainer extends Component {
 	state = {
 		images,
-		message: "Click one of the cards to begin!",
+		message: "Click a card to begin!",
 		score: 0,
 		topScore: 0
 	};
