@@ -1,6 +1,4 @@
-<p align="center">
 ![Catcha Pokemon Game](/screenshots/pokemonlogo-01.png)
-</p>
 
 # Catcha Pokemon Game
 
