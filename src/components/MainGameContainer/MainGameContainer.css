@@ -12,7 +12,7 @@
 .gameMessage p {
     font-family: 'Luckiest Guy', cursive;
     text-transform: uppercase;
-    background-color: gray;
+    background-color: black;
     color: white;
     padding: 20px 0;
     margin-bottom: 0px;
@@ -27,8 +27,8 @@
 .gameScores p {
     font-family: 'Luckiest Guy', cursive;
     text-transform: uppercase;
-    background-color:#3d7dca;
-    color: white;
+    background-color:white;
+    color: black;
     padding: 20px 0;
     margin-bottom: 25px;
 }

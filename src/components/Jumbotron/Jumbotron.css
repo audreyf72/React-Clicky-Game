@@ -1,6 +1,6 @@
 /*JUMBOTRON*/
 .jumbotron {
-	background-color: black;
+	background-color: #db1118;
 	margin-bottom: 0px;
     text-align: center;
 }
@@ -9,7 +9,7 @@
 	font-family: 'Luckiest Guy', cursive;
 	font-size: 65px;
 	text-transform: uppercase;
-	color: #3d7dca;
+	color: #ffffff;
 }
 
 .jumbotron p {
