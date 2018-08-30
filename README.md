@@ -1,5 +1,7 @@
 ![Catcha Pokemon Game](/screenshots/pokemonlogo-01.png)
 
+# Catcha Pokemon Game
+
 This React based click game is a simple but fun memory challenge card game. You can check out the deployed site on Heroku [here](https://fierce-fortress-10146.herokuapp.com/)!
 
 ## How To Play
