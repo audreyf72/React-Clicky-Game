@@ -48,28 +48,34 @@ class MainGameContainer extends Component {
 	render() {
 		return (
 			<div className="container-fluid mainCardContainer">
-			<div className="gameMessage text-center">
+		<div class="pageContainer">
+        <div class="gameScores text-center">
+						<p>You Caught: {this.state.score}</p>
+					</div>
+			    <div class="gameMessage text-center">
 						<p>{this.state.message}</p>
 					</div>
-					<div className="gameScores text-center">
-						<p>You Caught: {this.state.score} | Top Score: {this.state.topScore}</p>
+					<div class="TopScores text-center">
+						<p>Top Score: {this.state.topScore}</p>
 					</div>
-				<div className="container">
+      </div>
+      
+      <div class="container">
 					
-					<div className="row">
-					{this.state.images.map(image => (
-						<MemoryCard
-							key={image.id}
-							id={image.id}
-							name={image.name}
-							clicked={image.clicked}
-							image={image.image}
-							handleClick={this.handleClick}
-							/>
-					))}
-					</div>
-					
-				</div>
+        <div class="row">
+        {this.state.images.map(image => (
+          <MemoryCard
+            key={image.id}
+            id={image.id}
+            name={image.name}
+            clicked={image.clicked}
+            image={image.image}
+            handleClick={this.handleClick}
+            />
+        ))}
+        </div>
+        
+      </div>
 			</div>
 		);
 	}
