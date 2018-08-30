@@ -1,115 +1,115 @@
 [
   {
     "id": 1,
-    "name": "image1",
+    "name": "bulbasaur",
     "clicked": false,
     "image":
-      "/images/template.png"
+      "/images/bulbasaur2.png"
   },
   {
     "id": 2,
-    "name": "image2",
+    "name": "butterfree",
     "clicked": false,
     "image":
-      "/images/template.png"
+      "/images/butterfree.png"
   },
   {
     "id": 3,
-    "name": "image3",
+    "name": "pikachu",
     "clicked": false,
     "image":
-      "/images/template.png"
+      "/images/pikachu.png"
   },
   {
     "id": 4,
-    "name": "image4",
+    "name": "charmander",
     "clicked": false,
     "image":
-      "/images/template.png"
+      "/images/charmander.png"
   },
   {
     "id": 5,
-    "name": "image5",
+    "name": "eevee",
     "clicked": false,
     "image":
-      "/images/template.png"
+      "/images/eevee.png"
   },
   {
     "id": 6,
-    "name": "image6",
+    "name": "jigglypuff",
     "clicked": false,
     "image":
-      "/images/template.png"
+      "/images/jigglypuff.png"
   },
   {
     "id": 7,
-    "name": "image7",
+    "name": "meowth",
     "clicked": false,
     "image":
-      "/images/template.png"
+      "/images/meowth.png"
   },
   {
     "id": 8,
-    "name": "image8",
+    "name": "squirtle",
     "clicked": false,
     "image":
-      "/images/template.png"
+      "/images/squirtle2.png"
   },
   {
     "id": 9,
-    "name": "image9",
+    "name": "torchic",
     "clicked": false,
     "image":
-      "/images/template.png"
+      "/images/torchic.png"
   },
   {
     "id": 10,
-    "name": "image10",
+    "name": "marill",
     "clicked": false,
     "image":
-      "/images/template.png"
+      "/images/marill.png"
   },
   {
     "id": 11,
-    "name": "image11",
+    "name": "piplup",
     "clicked": false,
     "image":
-      "/images/template.png"
+      "/images/piplup.png"
   },
   {
     "id": 12,
-    "name": "image12",
+    "name": "caterpie",
     "clicked": false,
     "image":
-      "/images/template.png"
+      "/images/caterpie.png"
   },
   {
     "id": 13,
-    "name": "image13",
+    "name": "lapras",
     "clicked": false,
     "image":
-      "/images/template.png"
+      "/images/lapras.png"
   },
   {
     "id": 14,
-    "name": "image14",
+    "name": "pidgey",
     "clicked": false,
     "image":
-      "/images/template.png"
+      "/images/pidgey.png"
   },
   {
     "id": 15,
-    "name": "image15",
+    "name": "psyduck",
     "clicked": false,
     "image":
-      "/images/template.png"
+      "/images/psyduck.png"
   },
   {
     "id": 16,
-    "name": "image16",
+    "name": "sandshrew",
     "clicked": false,
     "image":
-      "/images/template.png"
+      "/images/sandshrew.png"
   }
 ]
 

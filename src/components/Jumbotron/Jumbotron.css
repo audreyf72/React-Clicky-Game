@@ -1,20 +1,42 @@
-/*JUMBOTRON*/
-.jumbotron {
-	background-color: black;
+/*  Jumbotron CSS */
+
+.topWrap {
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    top: 0;
+}
+
+.topHeader {
+    background: url("/images/jumbotronbackground1.png"), url("/images/jumbotronbackground2.png");
+    background-size: cover, cover;
+    background-repeat: no-repeat, repeat-x;
+    background-position: bottom, bottom;
+    width: 100%;
 	margin-bottom: 0px;
     text-align: center;
+    padding: 10px 0px 15px 0px;
 }
 
-.jumbotron h1 {
-	font-family: 'Luckiest Guy', cursive;
-	font-size: 65px;
-	text-transform: uppercase;
-	color: #3d7dca;
+.topHeaderImg {
+	background: url("/images/pokemonlogo.svg");
+	background-size: contain;
+    background-repeat: no-repeat;
+    background-position-y: center;
+	max-width: 1100px;
+    height: 223px;
+    margin: auto;
 }
 
-.jumbotron p {
-	font-family: 'Luckiest Guy', cursive;
-	font-size: 18px;
-	text-transform: uppercase;
-	color: white;
+.subTitle {
+    color: white;
+    text-align: center;
+    font-size: 24pt;
+    line-height: 100%;
+    background-color: black;
+    font-family: 'Oswald', sans-serif;
+    width: 100%;
+    padding: 10px 15px 15px 15px;
+    margin-bottom: 5px;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, .7);
 }
