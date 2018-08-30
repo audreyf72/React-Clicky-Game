@@ -5,7 +5,7 @@
 }
 
 .pageContainer {
-    max-width: 1120px;
+    max-width: 1100px;
     margin: auto;
     width: 100%;
     display: flex;
@@ -15,15 +15,14 @@
     text-align: center;
     flex-grow: 3;
     align-content: center;
-    margin: 20px;
+    margin: 15px;
 }
 
 .gameMessage p {
     font-family: 'Luckiest Guy', cursive;
-    text-shadow: 0px 1px rgba(0, 0, 0, .8);
-    font-size: 26pt;
+    text-shadow: 0px 1px rgba(0, 0, 0, .9);
+    font-size: 32pt;
     line-height: 100%;
-    text-transform: uppercase;
     color: #db1118;
     padding: 20px 10px 0px 10px;
     margin-bottom: 0px;
@@ -33,7 +32,7 @@
     text-align: center;
     flex-grow: 1;
     align-content: center;
-    margin: 20px;
+    margin: 20px 5px 10px 5px;
 }
 .gameScores p {
     font-family: 'Oswald', sans-serif;
@@ -55,7 +54,7 @@
     text-align: center;
     flex-grow: 1;
     align-content: center;
-    margin: 20px;
+    margin: 20px 5px 10px 5px;
 }
 .TopScores p {
     font-family: 'Oswald', sans-serif;
