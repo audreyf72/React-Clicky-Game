@@ -8,9 +8,9 @@
 }
 
 .topHeader {
-    background: url("/images/jumbotronbackground1.png"), url("/images/jumbotronbackground2.png");
-    background-size: cover, cover;
-    background-repeat: no-repeat, repeat-x;
+    background: url("/images/silhouettes.png"), url("/images/jumbotronbackground2.png");
+    background-size: contain, contain;
+    background-repeat: repeat-x, repeat-x;
     background-position: bottom, bottom;
     width: 100%;
 	margin-bottom: 0px;
